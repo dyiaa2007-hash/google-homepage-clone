@@ -9,4 +9,4 @@ A responsive clone of the Google homepage, built using HTML and CSS.
 - `stylegoogle.css` — the styling file
 
 ## Author
-Created by dyiaa eddine
+Created by Dyiaa Eddine
