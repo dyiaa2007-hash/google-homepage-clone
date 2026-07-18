@@ -187,23 +187,3 @@ box-shadow: 0 1px 6px rgba(32, 33, 36,.28);
         padding-top: 40px;
     }
 }
-
-
-
-
-
-
-
-
-
-/* تحسين الـ nav ليتجاوب مع الشاشات الصغيرة */
-nav {
-    flex-wrap: wrap;
-}
-
-main {
-    padding: 60px 15px 0;
-    width: 100%;
-}
-
-/* Tablet */
